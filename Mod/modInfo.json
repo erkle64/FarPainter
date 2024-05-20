@@ -1,0 +1,11 @@
+{
+  "identifier": "erkle64.FarPainter",
+  "displayName": "FarPainter",
+  "assetBundles": [ ],
+  "assemblies": [
+    "FarPainter.dll"
+  ]
+}
+
+
+
